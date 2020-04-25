@@ -1,0 +1,23 @@
+<title>Style Test</title>
+<style type="text/css">
+h1{
+	font-size: 30px;
+	color: INDIANRED
+}
+h2 {
+	font-size: 70px;
+	color: INDIANRED
+}
+.big {
+	font-size: 60px
+}
+.uppercase{
+	text-transform:uppercase;
+}
+.big.uppercase{
+	color:PAPAYAWHIP;
+}
+h1 span{
+	color: VIOLET ;
+}
+</style>
