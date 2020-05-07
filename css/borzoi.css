@@ -1,0 +1,78 @@
+body{
+	margin:0;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	background-color: darkolivegreen;
+}
+
+header{
+	background-color: PAPAYAWHIP; 
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1 {
+	font-family: 'UnifrakturMaguntia', cursive;
+	font-size: 80px
+}
+h2 {
+	font-family: 'UnifrakturMaguntia', cursive;
+	font-size: 40px;
+	color: peachpuff;
+	margin: 40px 0 10px;
+}
+
+header h1{
+	color: darkolivegreen ;
+}
+
+header img{
+	border-radius: 150px;
+	width: 200px;
+	border: 10px solid olive;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px;
+	background-color: darkolivegreen;	
+}
+
+main img {
+	max-width: 100%;
+}
+
+a {
+	color: moccasin;
+}
+
+a:hover{
+	color: rosybrown;
+}
+footer{background-color: PAPAYAWHIP; 
+	text-align: center;
+	padding: 50px;	
+}
+p{
+	color: white;
+}
+
+footer p{
+	margin: 0;
+	color: darkolivegreen;
+}
+
+p.caption{
+	color: peachpuff ;
+	font-style: italic;
+	margin-top: 0;
+}
+
+ol{
+	color:white;
+}
+ul {
+	color:white;
+}
